@@ -68,35 +68,35 @@ Disk check : 7/30GB (27%) (Minimal 10GB free space)
 Langkah 4 : Pilih opsi dan add-on
 
 `Full Service (default Y):`
-```sh
+
 PowerDNS - open-source DNS server
 Postfix  - open-source mail transfer agent
 Pure-FTPd - open-source FTP server
-```
+
 `Remote MySQL (default N):`
-```sh
+
 Izinkan Database Anda diinstal pada server jarak jauh
-```
+
 `CyberPanel Version (default Latest Version):`
-```sh
+
 Anda dapat memilih untuk menginstal CyberPanel versi sebelumnya, atau tekan Enter untuk menginstal versi terbaru
-```
+
 `Password (default “1234567”):`
-```sh
+
 Disarankan agar Anda menggunakan “s” untuk mengatur kata sandi Anda sendiri yang kuat
-```
+
 `Memcached (default Y):`
-```sh
+
 Sistem caching objek memori terdistribusi
-```
+
 `Redis (default Y):`
-```sh
+
 Penyimpanan struktur data dalam memori, digunakan sebagai database, cache, dan pesan rusak
-```
+
 `Watchdog (default Yes):`
-```sh
+
 Pengawas kernel digunakan untuk memantau apakah suatu sistem sedang berjalan. Seharusnya secara otomatis me-reboot sistem yang hang karena kesalahan perangkat lunak yang tidak dapat dipulihkan
-```
+
 Langkah 5 : Installation
 
 Proses instalasi akan berjalan secara otomatis. Ini akan memakan waktu 5-10 menit, tergantung kecepatan server Anda.
